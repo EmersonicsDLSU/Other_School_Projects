@@ -4,9 +4,9 @@ Download Build: https://drive.google.com/drive/folders/1C4WxSKKhT4UUI5l_nhl4JEPD
  
 Brooklyn Nets Studios 
 Game Designers:
-Emerson Celestial
-Drei Gaurana
-Eryn Tallador
+Emerson Celestial,
+Drei Gaurana,
+Eryn Tallador,
 Joseph Santos
 
 The project is about the recreation of the infamous attraction "The Pyramid of Giza". The program platform is 3D and the shader used is URP, it only included a few C#
